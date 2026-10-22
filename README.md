@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 
-# ⚽ PitchVision AI
+# ⚽ VectorField-AI
 
 ### *Advanced Football Match Analysis using Computer Vision & Deep Learning*
 
@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-**PitchVision AI** is a fully automated football match analysis system that uses a custom-trained **YOLOv8** model and **ByteTrack** multi-object tracking to extract rich tactical and physical insights from raw match footage.
+**VectorField-AI** is a fully automated football match analysis system that uses a custom-trained **YOLOv8** model and **ByteTrack** multi-object tracking to extract rich tactical and physical insights from raw match footage.
 
 It detects and tracks every **player**, **goalkeeper**, **referee**, and the **ball** across an entire match video — then overlays real-time analytics directly onto the output video, including:
 
@@ -104,7 +104,7 @@ It detects and tracks every **player**, **goalkeeper**, **referee**, and the **b
 ## 🏗️ Architecture
 
 ```
-PitchVision-AI/
+VectorField-AI/
 │
 ├── main.py                          # 🚀 Entry point — orchestrates the full pipeline
 │
